@@ -1,0 +1,122 @@
+body {
+	background-color: #f5f4ef;
+	color: #000305;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: "Trebuchet MS", Trebuchet, sans-serif;
+	line-height: 1.4;
+	margin: 0;
+ }
+ 
+ a {
+	color: #c74451;
+ }
+ 
+ a:hover {
+	background-color: #c74350;
+	color: white;
+	text-decoration: none;
+ }g
+ 
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6 {
+	margin: 0;
+	font-weight: 400;
+	color: #c74451;
+ }
+ 
+ h1 {
+	font-size: 50px;
+ }
+ 
+ h2 {
+	font-size: 24px;
+ }
+ 
+ h3 {
+	font-size: 20px;
+ }
+ 
+ p {
+	margin: 0 0 20px 0;
+ }
+ 
+ .ba-container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 40px 20px;
+ }
+ 
+ .ba-section {
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding: 20px;
+	margin-bottom: 30px;
+ }
+ 
+ .ba-logo {
+	color: #000305;
+	text-decoration: none;
+	font-weight: 700;
+	display: inline-block;
+	margin-bottom: 30px;
+ }
+ 
+ .ba-logo:hover {
+	color: #c74350;
+	background-color: #f5f4ef;
+ }
+ 
+ .ba-underlogo {
+	display: block;
+	font-size: 18px;
+	font-weight: normal;
+ }
+ 
+ .ba-featured-article a {
+	text-decoration: none;
+	color: black;
+ }
+ 
+ .ba-featured-article a:hover {
+	color: white;
+ }
+ 
+ .ba-article a {
+	text-decoration: none;
+ }
+ 
+ .ba-blogdroll-li {
+	margin: 0 0 40px;
+	padding: 0;
+	list-style: none;
+	max-width: 200px;
+ }
+ 
+ .ba-blogdroll-li li {
+	border-bottom: 1px solid #ffffff;
+ }
+ 
+ .ba-blogdroll-li a {
+	color: black;
+	text-decoration: none;
+	display: block;
+	padding: 6px 3px;
+	border-bottom: 1px solid #f4e3e3;
+ }
+ 
+ .ba-blogdroll-li a:hover {
+	color: white;
+ }
+ 
+ #main-text{
+	 color: #000305;
+	text-decoration: none;
+	font-weight: 700;
+	display: inline-block;
+	margin-bottom: 30px;
+ }
